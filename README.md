@@ -28,4 +28,4 @@ Go to the [pre-requirements](./lessons/0.md) section.
 
 ___
 
-Soon at the [**Talking About Testing school**](https://udemy.com/user/walmyr).
+A course created by the [**Talking About Testing school**](https://udemy.com/user/walmyr).

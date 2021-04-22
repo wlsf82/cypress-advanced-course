@@ -30,4 +30,4 @@ Would you like to stay in touch? Connect with me via [**LinkedIn**](https://www.
 
 ___
 
-A course by the [**Talking About Testing school**](https://udemy.com/user/walmyr).
+A course created by the [**Talking About Testing school**](https://udemy.com/user/walmyr).
